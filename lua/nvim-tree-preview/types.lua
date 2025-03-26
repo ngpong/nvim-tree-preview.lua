@@ -34,7 +34,7 @@
 ---@field min_height number
 ---@field max_width number
 ---@field max_height number
----@field wrap boolean
+---@field wo table
 ---@field border any
 ---@field zindex number
 ---@field show_title boolean
